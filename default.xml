@@ -8,15 +8,14 @@
            remote="rockchip-linux"
            sync-j="4" />
 
-  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="gcc-prebuilts" revision="aarch64-linux-android-4.9"/>
   <project path="kernel" name="kernel" revision="release-4.4"/>
   <project path="u-boot" name="u-boot" revision="release"/>
   <project path="buildroot" name="buildroot" revision="2016.08.x"/>
   <project path="docs" name="docs" revision="rk3399"/>
   <project path="app/carmachine" name="carmachine" revision="master"/>
   <project path="external/io" name="io" revision="master"/>
-  <project path="external/gstreamer-rockchip" name="gstreamer-rockchip" revision="rkvideo"/>
-  <project path="external/mpp" name="mpp" revision="rk3288_linux"/>
+  <project path="external/gstreamer-rockchip" name="gstreamer-rockchip" revision="master"/>
+  <project path="external/mpp" name="mpp" revision="for_linux"/>
   <project path="external/libmali" name="libmali" revision="rockchip"/>
   <project path="build" name="build" revision="debian"/>
   <project path="rkbin" name="rkbin" revision="master"/>
