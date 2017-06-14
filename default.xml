@@ -20,7 +20,7 @@
   <project path="build" name="build" revision="debian"/>
   <project path="rkbin" name="rkbin" revision="master"/>
   <project path="device/rockchip/rk3399" name="device-custom" revision="rk3399">
-	  <copyfile dest="mkrootfs.sh" src="mkrootfs.sh"/>
+	  <copyfile dest="mkfirmware.sh" src="mkfirmware.sh"/>
           <copyfile dest="build_all.sh" src="build_all.sh"/>
           <copyfile dest="envsetup.sh" src="envsetup.sh"/>
   </project>
