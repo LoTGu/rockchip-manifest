@@ -15,7 +15,7 @@
   <project path="app/carmachine" name="carmachine" revision="master"/>
   <project path="external/io" name="io" revision="master"/>
   <project path="external/gstreamer-rockchip" name="gstreamer-rockchip" revision="master"/>
-  <project path="external/mpp" name="mpp" revision="for_linux"/>
+  <project path="external/mpp" name="mpp" revision="release"/>
   <project path="external/libmali" name="libmali" revision="rockchip"/>
   <project path="build" name="build" revision="debian"/>
   <project path="rkbin" name="rkbin" revision="master"/>
